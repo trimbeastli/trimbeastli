@@ -1,4 +1,3 @@
-(✅ This will appear **perfectly rendered** in your GitHub main page preview.)
 
 ---
 
